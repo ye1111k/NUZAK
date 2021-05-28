@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--suppress AndroidDomInspection -->
+    <item
+        android:id="@+id/searchItem"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="내 책장" />
+    <item
+        android:id="@+id/cameraItem"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="동화 만들기" />
+    <item
+        android:id="@+id/callItem"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="마이페이지" />
+</menu>
