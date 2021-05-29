@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/library"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        android:enabled="true"
+        android:title="내 책장" />
+    <item
+        android:id="@+id/추가하기"
+        android:icon="@drawable/ic_baseline_add_24"
+        android:enabled="true"
+        android:title="동화만들기" />
+    <item
+        android:id="@+id/list"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:enabled="true"
+        android:title="마이페이지" />
+</menu>
